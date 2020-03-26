@@ -17,7 +17,7 @@
 
 ## Como montar o ambiente
 
-## Instalação do Ruby
+### Instalação do Ruby
 
 - Instalação do Ruby no MacOS: [Tutorial QANINJA - Instalando o Ruby no MacOS](https://medium.com/qaninja/instalando-o-ruby-no-macos-435f451b86a8).
 - Instalação do Ruby no Linux: [Tutorial QANINJA - Instalando o Ruby no Linux](https://medium.com/qaninja/como-instalar-ruby-com-rbenv-no-ubuntu-a75d1999362b).
@@ -25,15 +25,16 @@
 
 ### Instalação do Cucumber
 
-···· gem install cucumber
+    gem install cucumber
 
 ### Instalação do Capybara e rspec
 
-···· gem install rspec
+    gem install rspec
 
-···· gem install capybara
+    gem install capybara
 
 ### Instalação do chromedriver
 
 [Página Oficial do Chrome Driver](https://chromedriver.chromium.org/downloads)
+
 [Instalação do Chrome Driver no Linux](https://tecadmin.net/setup-selenium-chromedriver-on-ubuntu/)
