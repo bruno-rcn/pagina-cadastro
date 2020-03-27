@@ -14,6 +14,7 @@
 - Ruby.
 - Cucumber.
 - Capybara.
+- Siteprism
 
 ## Como montar o ambiente
 
@@ -35,6 +36,32 @@
 
 ### Instalação do chromedriver
 
+> Lembre-se que a versão do seu chrome e do chromedriver deve ser a mesma
+
 [Página Oficial do Chrome Driver](https://chromedriver.chromium.org/downloads)
 
 [Instalação do Chrome Driver no Linux](https://tecadmin.net/setup-selenium-chromedriver-on-ubuntu/)
+
+### Rodar o bundle install para criar o Gemfile.lock
+
+> Deve rodar na mesma pasta que está o Gemfile
+
+    bundle install
+
+## Documentações utilizadas
+
+### Cucumber
+
+[Cucumber.io](https://cucumber.io/docs/gherkin/)
+
+### Capybara
+
+[Capybara cheatsheet](https://devhints.io/capybara)
+
+### RSpec
+
+[Rspec Built in matchers](https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers)
+
+### SitePrim
+
+[SitePrismDoc](https://github.com/site-prism/site_prism)
