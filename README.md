@@ -1,19 +1,29 @@
 # Automação de Página de Cadastro
 
 > Para a aplicação que desenvolverá os testes automatizados:
-> *Nos demonstre os cenários com a automação da aplicação em qualquer linguagem. Se você tiver escrito qualquer outro tipo de documentação, gostaríamos de ver.
-> *Se houver mais anotações, questões ou qualquer coisa que possa ter surgido enquanto você fazia seus testes, pode nos enviar também.
+>
+> - Nos demonstre os cenários com a automação da aplicação em qualquer linguagem. Se você tiver escrito qualquer outro tipo de documentação, gostaríamos de ver.
+> - Se houver mais anotações, questões ou qualquer coisa que possa ter surgido enquanto você fazia seus testes, pode nos enviar também.
 >
 > Essa aplicação se encontra nesse link: [Automação com Batista](https://automacaocombatista.herokuapp.com/treinamento/home)
 
+## Regras de Negócio
+
+    Funcionalidade: Cadastro
+        Eu como paciente da Rede D'Or gostaria de realizar o preenchiemento do cadastro para marcar consultas e exames
+
+    #Os campos nome e e-mail são obrigatórios
+    #O email deve seguir o padrão email@email.com
+    #A mensagem de sucesso deve ser "Usuário Criado com sucesso"
+
 ## O que foi utilizado
 
-- Plataforma: Linux.
-- IDLE: VSCode.
-- Browser: Chrome.
-- Ruby.
-- Cucumber.
-- Capybara.
+- Plataforma: Linux
+- IDLE: VSCode
+- Browser: Chrome
+- Ruby
+- Cucumber
+- Capybara
 - Siteprism
 
 ## Como montar o ambiente
